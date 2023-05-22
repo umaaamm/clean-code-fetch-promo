@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A555C38-0AFC-44E2-858A-3871C95A4000"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED438CE7-0227-4BF6-A2EA-D3C420DFA498"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PromoBNI/Presentation/View/PromoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5844C03E-BA5C-4044-AC7C-AFD19754A382"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PromoBNI/Presentation/View/TableViewCell/PromoViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "PromoViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5844C03E-BA5C-4044-AC7C-AFD19754A382 - f4e738b6bd026b32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewCell.awakeFromNib() -&gt; ()"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/TableViewCell/PromoViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5844C03E-BA5C-4044-AC7C-AFD19754A382 - 897c47750c1169fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewCell.lblNama.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/TableViewCell/PromoViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5844C03E-BA5C-4044-AC7C-AFD19754A382 - a124163f553ead6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewCell.lblNama.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/TableViewCell/PromoViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "5844C03E-BA5C-4044-AC7C-AFD19754A382 - 492fddd466248d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewCell.lblNama.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/TableViewCell/PromoViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5844C03E-BA5C-4044-AC7C-AFD19754A382 - b21f98e463312ece"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewCell.lblNama.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/TableViewCell/PromoViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5844C03E-BA5C-4044-AC7C-AFD19754A382 - defc3efe3a3d44c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; PromoBNI.PromoViewCell"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/TableViewCell/PromoViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "5844C03E-BA5C-4044-AC7C-AFD19754A382 - adb90f22540f6a03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PromoBNI.PromoViewCell&gt;"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/TableViewCell/PromoViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B161013C-3045-4CB3-8432-B9F46C31E604"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PromoBNI/Presentation/View/PromoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "showPromo(promos:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B161013C-3045-4CB3-8432-B9F46C31E604 - 566434b57c41d71e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewController.showPromo(promos: Swift.Array&lt;PromoBNI.PromoEntity&gt;) -&gt; ()"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/PromoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "B161013C-3045-4CB3-8432-B9F46C31E604 - 566434b57c41d616"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewController.showPromo(promos: Swift.Array&lt;PromoBNI.PromoEntity&gt;) -&gt; ()"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/PromoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B03D4F07-A7BE-4514-B314-C7CF2803D9B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PromoBNI/Presentation/View/PromoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "showPromo(promos:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B03D4F07-A7BE-4514-B314-C7CF2803D9B2 - 566434b57c41d77f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewController.showPromo(promos: Swift.Array&lt;PromoBNI.PromoEntity&gt;) -&gt; ()"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/PromoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "B03D4F07-A7BE-4514-B314-C7CF2803D9B2 - 566434b57c41d677"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoViewController.showPromo(promos: Swift.Array&lt;PromoBNI.PromoEntity&gt;) -&gt; ()"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/View/PromoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C8BFAAC-5D69-4392-B5FB-C4762C3D8BB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PromoBNI/Presentation/Presenter/PromoPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getPromo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6DD3D14-FE32-4963-AC45-EBB81B87741F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PromoBNI/Presentation/Presenter/PromoPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getPromo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F6DD3D14-FE32-4963-AC45-EBB81B87741F - c87706e15a2e7567"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PromoBNI.PromoPresenterIpl.getPromo() -&gt; ()"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/Presenter/PromoPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "F6DD3D14-FE32-4963-AC45-EBB81B87741F - 276e4b9c90e71662"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;PromoBNI.PromoEntity&gt;, PromoBNI.NetworkError&gt;) -&gt; () in PromoBNI.PromoPresenterIpl.getPromo() -&gt; ()"
+                  moduleName = "PromoBNI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umaaamm/Documents/BNI%20TEST/PromoBNI/PromoBNI/Presentation/Presenter/PromoPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
